@@ -1,0 +1,43 @@
+body {
+  margin: 89px;
+}
+img {
+  position: absolute;
+  left: 500px;
+}
+p {
+  position: relative;
+  left: 250px;
+  top: 290px;
+  font-family: impact;
+  font-size: 19px;
+}
+P2 {
+  position: relative;
+  left: 250px;
+  top: 290px;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+p3 {
+  position: relative;
+  left: 250px;
+  top: 290px;
+  font-family: impact;
+  font-size: 19px;
+  font-style: italic;
+}
+body {
+  background-image: url('menuBGBlue.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+p4 {
+  position: relative;
+  left: 250px;
+  top: 290px;
+  font-size: 15px;
+  font-style: italic;
+}
