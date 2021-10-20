@@ -3,7 +3,7 @@ body {
 }
 img {
   position: absolute;
-  left: 500px;
+  left: 550px;
 }
 p {
   position: relative;
@@ -40,4 +40,12 @@ p4 {
   top: 290px;
   font-size: 15px;
   font-style: italic;
+}
+p5 { 
+  position: relative;
+  left: 250px;
+  top: 290px;
+  font-size: 19px;
+  font-family: impact;
+  font-weight: bold;
 }
